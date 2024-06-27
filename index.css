@@ -1,0 +1,28 @@
+#container{
+    margin: auto;
+    border: 2px solid #2c1320 ;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+#Clock{
+    text-align: center;
+}
+
+*{
+    background-color: #56667a;
+    color: #a7adc6;
+}
+
+#reserved{
+    text-align: center;
+}
+
+#quote{
+    padding: 10px;
+    margin-top: 10%;
+    text-align: center;
+    border: 2px solid #2c1320;
+    border-radius: 10px;
+}
